@@ -1,0 +1,3 @@
+pdfmake 0.2.20 – https://github.com/bpampuch/pdfmake – licencja MIT (plik LICENSE w tym katalogu).
+vfs_fonts.js zawiera czcionkę Roboto (Google) – licencja Apache License 2.0: https://www.apache.org/licenses/LICENSE-2.0
+Pliki skopiowano bez zmian z pakietu npm pdfmake@0.2.20 (npm run vendor:pdfmake).

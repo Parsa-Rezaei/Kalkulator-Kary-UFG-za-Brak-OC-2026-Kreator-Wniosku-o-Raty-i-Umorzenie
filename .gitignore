@@ -1,0 +1,11 @@
+# Zależności i pliki tymczasowe
+node_modules/
+test-output/
+.wrangler/
+
+# Sekrety – NIGDY nie dodawaj ich do repozytorium
+.env
+.env.*
+.dev.vars
+*.pem
+*.key

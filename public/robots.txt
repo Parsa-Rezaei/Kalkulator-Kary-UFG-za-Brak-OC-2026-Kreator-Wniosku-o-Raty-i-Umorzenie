@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /functions/
 
 Sitemap: https://TWOJA-DOMENA.pl/sitemap.xml
